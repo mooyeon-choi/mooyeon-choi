@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Mooyeon Choi a Junior Developer
 
 ```
-🌱 I’m currently learning react
+🌱 I’m currently learning java, react
 💬 Ask me about anything
 📫 How to reach me: lon12080@naver.com
 ```
