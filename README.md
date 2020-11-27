@@ -3,6 +3,9 @@
 
 📊 Codeforces: [mooyeon](https://codeforces.com/profile/mooyeon) ![Badge](https://cp-logo.vercel.app/codeforces/mooyeon)
 
+🖥️ Baekjoon: [memoria22](https://www.acmicpc.net/user/memoria22) [![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
+
 🌱 I’m currently learning java, react
 
 💬 Ask me about anything
