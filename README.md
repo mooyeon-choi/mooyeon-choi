@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Mooyeon Choi a Junior Developer
 
-[![Badge](https://cp-logo.vercel.app/codeforces/mooyeon)](https://codeforces.com/profile/mooyeon) [![Solved.ac
+[![Codeforces Badge](https://cp-logo.vercel.app/codeforces/mooyeon)](https://codeforces.com/profile/mooyeon) [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=memoria22)](https://solved.ac/memoria22)
 
 ```
