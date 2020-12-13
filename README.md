@@ -9,4 +9,4 @@
 📫 How to reach me: lon12080@naver.com
 ```
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mooyeon-choi&count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mooyeon-choi&show_icons=true&count_private=true&theme=merko)
