@@ -4,9 +4,9 @@
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=memoria22)](https://solved.ac/memoria22)
 [![Generic badge](https://img.shields.io/badge/Blog-tistory-yellow.svg)](https://moo-choi.tistory.com/)
 ```
-🌱 I’m currently learning java, react
+🌱 I’m currently learning FE
 💬 Ask me about anything
-📫 How to reach me: lon12080@naver.com
+📫 How to reach me: lon12080@gmail.com
 ```
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mooyeon-choi&show_icons=true&count_private=true)
