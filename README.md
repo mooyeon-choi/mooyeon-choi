@@ -5,11 +5,9 @@
 [![Codeforces Badge](https://cp-logo.vercel.app/codeforces/mooyeon)](https://codeforces.com/profile/mooyeon) [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=memoria22)](https://solved.ac/memoria22)
 [![Generic badge](https://img.shields.io/badge/Blog-tistory-yellow.svg)](https://moo-choi.tistory.com/)
-<img src="https://www.urbanbrush.net/web/wp-content/uploads/edd/2018/05/web-20180503231137683769.png" align="right" width="300px">
 ```
 🌱 I’m currently learning FE
 💬 Ask me about anything
 📫 How to reach me: lon12080@gmail.com
 ```
 <img src="https://github-readme-stats.vercel.app/api?username=mooyeon-choi&show_icons=true&count_private=true" align="left">
-
