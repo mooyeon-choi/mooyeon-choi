@@ -11,6 +11,5 @@
 💬 Ask me about anything
 📫 How to reach me: lon12080@gmail.com
 ```
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mooyeon-choi&show_icons=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=mooyeon-choi&show_icons=true&count_private=true" align="left">
 
