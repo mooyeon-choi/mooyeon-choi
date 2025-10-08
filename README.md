@@ -53,6 +53,6 @@ I love crafting delightful user experiences with <b>React, Next.js, Flutter, and
 ---
 
 <p align="center">
-  <i>“Code with purpose. Design with empathy. Ship with precision.”</i><br>
+  <i>“I focus on building experiences that people genuinely enjoy using, and on creating a work culture where we can learn, share, and grow together.”</i><br>
   — Mooyeon Choi
 </p>
